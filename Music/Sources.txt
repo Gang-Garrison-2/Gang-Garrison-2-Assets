@@ -1,0 +1,29 @@
+Elkondo - Petite Chou-Fleur (8-bit).mp3
+Elkondo - Right Behind You (8-bit).mp3
+Father of Syn - Gang Garrison II (damaged).mp3
+Father of Syn - Gang Garrison II (In-Game).mp3
+Scoot - Gang Garrison Rocket Jump Waltz.mp3
+
+	Source: Gang Garrison 2 Homepage
+	Father of Syn - Gang Garrison II (damaged).mp3 has a stream error and stutters in the intro, at least when played back in foobar2000. It is unclear whether the ogg version edited this out or was based on another source.
+
+Father of Syn - Gang Garrison II.ogg
+
+	Source:  Commit 71fc9a209a819bb91f4c4fd18c6c3ff281ba3466 in the original repo
+
+Failure.wav
+Victory.wav
+
+	Source: Commit e6154819640e4d00a1e2bf5001b28128cd7480a5 in the original repo
+
+faucetmusic.wav:
+	Source: Commit 3eb3d8c875cf91d449f20d76da74618b1bc85518 in the original repo
+
+Elkondo - MEDIC!.ogg
+	Source: Commit 65fe741a72b9492d92f23ab2f57c5e83f19e422e in the original repo
+
+Elkondo - A Little Heart To Heart.ogg
+	Source: Commit 7a12d9e17017ff4dc5c4da79a190d535d1d88a8d in the original repo
+
+Elkondo - Intruder Alert.ogg
+	Source:  Commit 76e0cae45dfb5de70b3fd7203a23790c635e48b0 in the original repo. It's a merge commit. Yeah, I don't know.
